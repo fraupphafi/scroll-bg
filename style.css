@@ -1,0 +1,16 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    min-width: 320px;
+}
+.container {
+    transition: all 0.3s;
+    position: relative;
+}
+
+section {
+    position: relative;
+    width: 100vh;
+    height: 100vh;
+}
