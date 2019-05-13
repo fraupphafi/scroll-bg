@@ -7,3 +7,5 @@ container.style.backgroundColor = firstColor;
 
 console.log(sections);
 console.log(firstColor);
+
+
