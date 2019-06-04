@@ -1,2 +1,2 @@
-# scroll-slider
+# scroll-bg
 # https://rsconf.by/
